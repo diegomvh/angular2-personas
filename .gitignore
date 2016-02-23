@@ -1,0 +1,3 @@
+*.pmxproject
+node_modules
+typings
